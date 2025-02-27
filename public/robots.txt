@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+Sitemap: [blog-url]/sitemap-0.xml
+// ps：Sitemap: https://astro-yi-nu.vercel.app/sitemap-0.xml
